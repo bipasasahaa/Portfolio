@@ -1,0 +1,30 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.6.16",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "blenderkitUI" : {
+                    "assetbar_on" : 0,
+                    "turn_off" : 0
+                },
+                "uuid" : "4cf739a0-2ed0-4f58-b515-bc7df60299bd",
+                "glTF2ExportSettings" : {
+                    "export_apply" : 1,
+                    "export_cameras" : 1,
+                    "export_extras" : 1,
+                    "export_format" : "GLTF_EMBEDDED",
+                    "export_image_format" : "AUTO",
+                    "use_active_collection" : 1,
+                    "use_renderable" : 1,
+                    "use_selection" : 1,
+                    "use_visible" : 1
+                }
+            },
+            "name" : "Scene"
+        }
+    ]
+}
